@@ -1,8 +1,10 @@
-# Automated Grad-CAM generation for testing of image recognition models in an MLOps context 
+# Geração de Mapa de calor para verificação das áreas que ativam redes neurais em imagens
 
-This repository contains source code and a replication package for a paper submitted to a workshop.
+Esse repositório é baseado no repositório https://github.com/augustlidfeldt/ETSN20
 
-This code has been tested with **Python 3.7** and conda environments on MacOS and Win10.
+Foram alterados os requirements para ter compatibilidade e incluídos os resultados do modelo (pasta images)
+
+Instruções originais:
 
 ## Getting started with the default example
 1. Clone this repo.
